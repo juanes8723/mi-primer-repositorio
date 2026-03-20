@@ -1,0 +1,17 @@
+body{
+    font-family: 'Sora', sans-serif;
+}
+
+.header{
+    padding: var(--spacing-16);
+}
+.header_brand{
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-12);
+}
+.header_title{
+    font-size: 20px;
+    font-weight: 700px;
+    color: var(--primary-black);
+}
